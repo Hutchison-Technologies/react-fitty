@@ -2,9 +2,13 @@
   "name": "react-fitty",
   "author": "lucasljj@gmail.com",
   "module": "dist/react-fitty.esm.js",
-  "keywords": ["fitty", "react", "react-fitty"],
+  "keywords": [
+    "fitty",
+    "react",
+    "react-fitty"
+  ],
   "repository": "https://github.com/Hutchison-Technologies/react-fitty",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
